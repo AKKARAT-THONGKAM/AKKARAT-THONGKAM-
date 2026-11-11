@@ -39,7 +39,7 @@
  
 <br/><br/>
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thammarat-ai&show_icons=true&theme=react-dark" width="100%" />
  
 </div>
 
